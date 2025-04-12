@@ -38,7 +38,7 @@ Enter trace:
 ```
 Enter a **trace level** (e.g., `2`) and press Enter. The simulation results will then be printed in the terminal.
 
-## Saving Output to Files (Optional)
+### Saving Output to Files (Optional)
 
 To save the terminal output to a file manually, use output redirection:
 
